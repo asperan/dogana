@@ -1,0 +1,17 @@
+[package]
+name = "dogana"
+version = "0.1.0-1"
+authors = ["Alex Speranza"]
+edition = "2021"
+repository = ""
+keywords = ["test", "test-containers", "cli", "integration-tests"]
+categories = ["command-line-interface", "development-tools::testing", "virtualization"]
+
+[dependencies]
+cargo_metadata = "0.19.2"
+hierrorchy = "0.1.0"
+indoc = "2.0.6"
+serde = "1.0.219"
+serde_json = "1.0.140"
+uuid = { version = "1.16.0", features = ["v4"] }
+which = "7.0.2"
