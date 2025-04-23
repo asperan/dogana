@@ -1,6 +1,8 @@
 [package]
 name = "dogana"
 version = "0.1.0-1"
+description = "A simple framework to run integration tests of CLI projects inside a container"
+license = "MPL-2.0"
 authors = ["Alex Speranza"]
 edition = "2021"
 repository = "https://github.com/asperan/dogana"
