@@ -3,7 +3,7 @@ name = "dogana"
 version = "0.1.0-1"
 authors = ["Alex Speranza"]
 edition = "2021"
-repository = ""
+repository = "https://github.com/asperan/dogana"
 keywords = ["test", "test-containers", "cli", "integration-tests"]
 categories = ["command-line-interface", "development-tools::testing", "virtualization"]
 
